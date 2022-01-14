@@ -1,0 +1,2 @@
+this is a file for testing softlink and hardlink
+This is a Hardlink file
